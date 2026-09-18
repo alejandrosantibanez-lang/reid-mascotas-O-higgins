@@ -1,0 +1,42 @@
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks (archivos temporales y de checkpoint)
+.ipynb_checkpoints/
+
+# Datasets y Datos (¡Muy importante! No subir fotos locales)
+data/
+datasets/
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.tar.gz
+
+# Pesos y modelos entrenados (Heavy ML weights)
+models/
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+
+# Configuraciones e IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Logs y resultados temporales
+logs/
+runs/
+*.log

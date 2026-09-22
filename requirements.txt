@@ -1,0 +1,28 @@
+# Instalar todas las librerias de este archivo desde la carpeta del proyecto:
+# python -m pip install -r requirements.txt
+#
+# Dependencias principales del proyecto:
+
+# Operaciones con arrays y procesamiento numerico.
+numpy
+
+# Modelos de aprendizaje profundo y ejecucion con tensores.
+torch
+
+# Modelos y transformaciones de imagen compatibles con PyTorch.
+torchvision
+
+# Modelos de vision preentrenados, incluido ViT-B/16.
+timm
+
+# Lectura, conversion y manipulacion de imagenes.
+Pillow
+
+# Algoritmos de aprendizaje automatico, incluido t-SNE.
+scikit-learn
+
+# Creacion y guardado de graficos.
+matplotlib
+
+# Para comprobar que las librerias quedaron instaladas correctamente:
+# python -c "import torch, timm, PIL, torchvision, numpy, sklearn, matplotlib; print('Dependencias instaladas correctamente')"

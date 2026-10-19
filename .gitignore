@@ -16,8 +16,8 @@ __pycache__/
 
 # Datasets y Datos (¡Muy importante! No subir fotos locales)
 data/
+data_ohiggins/
 datasets/
-*.jpg
 *.jpeg
 *.png
 *.zip
@@ -43,4 +43,4 @@ runs/
 
 # Excepciones
 # Permitir explícitamente la carpeta de consultas
-!consultas/
+

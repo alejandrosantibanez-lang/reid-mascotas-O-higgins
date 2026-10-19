@@ -18,6 +18,7 @@ __pycache__/
 data/
 data_ohiggins/
 datasets/
+*.jpg
 *.jpeg
 *.png
 *.zip
@@ -40,7 +41,3 @@ models/
 logs/
 runs/
 *.log
-
-# Excepciones
-# Permitir explícitamente la carpeta de consultas
-

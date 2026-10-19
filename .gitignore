@@ -40,3 +40,7 @@ models/
 logs/
 runs/
 *.log
+
+# Excepciones
+# Permitir explícitamente la carpeta de consultas
+!consultas/
